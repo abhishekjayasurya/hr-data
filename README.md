@@ -1,4 +1,4 @@
-# HR Data Analytics Project Report for AtliQ Hardwares
+# HR Data Analytics Project Report for AtliQ Technologies
 
 ***Prepared by:*** ***Abhishek J***
 
@@ -238,7 +238,7 @@ Based on the insights derived from the HR data analytics project, the following 
 
 ---
 ## Conclusion
-The HR Data Analytics dashboard provides the *AltiQ Hardwares* HR team with a powerful tool to **optimize attendance tracking and workforce planning.** The insights generated not only streamline HR processes but also offer data-driven recommendations for scheduling and workforce management.
+The HR Data Analytics dashboard provides the *AltiQ Technologies* HR team with a powerful tool to **optimize attendance tracking and workforce planning.** The insights generated not only streamline HR processes but also offer data-driven recommendations for scheduling and workforce management.
 
 By understanding patterns in WFH, office presence, and sick leave, the HR team can proactively manage resources, promote work-life balance, and ensure effective workforce planning.
 
