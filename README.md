@@ -8,7 +8,7 @@
 
 In a bid to enhance the operational efficiency of the HR team at *AltiQ Technologies,* a comprehensive HR Data Analytics project was undertaken. This project focuses on tracking and analyzing employee attendance, performance, and leave patterns over three months, ultimately resulting in the development of a Power BI dashboard that **saves an estimated 3-4 hours of daily HR work.**
 
-The dashboard captures critical **metrics such as working hours, attendance percentage, performance, and leave patterns,** providing the HR team with actionable insights to optimize workforce management.
+The dashboard captures critical **metrics such as attendance percentage, performance, and leave patterns,** providing the HR team with actionable insights to optimize workforce management.
 
 <center><img src="assets/images/hr_dashboard_final.png"/></center>
 
